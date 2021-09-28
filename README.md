@@ -1,2 +1,2 @@
 # Danish3848.github.io
-Wep programming Lab1
+Web programming Lab1
